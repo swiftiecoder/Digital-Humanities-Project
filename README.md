@@ -1,4 +1,4 @@
-# Digital-Humanities-Project
+# Hook, Time & Singer: A Digital Humanities Project
 
 The final corpus is `lyrics-dataset-updated-v2.xlsx` (the reject modernity, embrace tradition version of version control)
 
