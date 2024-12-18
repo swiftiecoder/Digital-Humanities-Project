@@ -1,5 +1,7 @@
 # Hook, Time & Singer: A Digital Humanities Project
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/6XSZOXB8nZoWtTsaNBsg0t?si=21bb3ad45da542e9)
+
 The final corpus is `lyrics-dataset-updated-v2.xlsx` (the reject modernity, embrace tradition version of version control)
 
 The code for creating the corpus (web scraping and lyrics and feature collection) can be found in the `dataset collection` folder in the `collect_dataset.ipynb` and `explore_dataset.ipynb` files.
