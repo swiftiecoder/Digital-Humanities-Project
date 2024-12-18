@@ -1,6 +1,6 @@
 # Hook, Time & Singer: A Digital Humanities Project
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6XSZOXB8nZoWtTsaNBsg0t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify Playlist](https://img.shields.io/badge/Listen%20on-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/6XSZOXB8nZoWtTsaNBsg0t)
 
 The final corpus is `lyrics-dataset-updated-v2.xlsx` (the reject modernity, embrace tradition version of version control)
 
